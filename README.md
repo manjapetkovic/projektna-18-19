@@ -5,4 +5,6 @@ Repozitorij vsebuje projektno nalogo pri predmetu Programiranje 1. V njo sem vkl
 Zbrala sem naslednje podatke: uvrstitev, avtor, naslov, mesec izdaje, leto izdaje, format
 
 Hipoteze: ugotavljala bom kdo so najboljši avtorji, ali je bolj popularna mehka ali trda vezava, katere knjige izdane pred letom 2000 so na seznamu. 
+
+Kodi za zajem in pripravo podatkov se nahajata v datotekah nalozi.py in orodja.py. Datoteka podatki.csv vsebuje vse podatke.
   
